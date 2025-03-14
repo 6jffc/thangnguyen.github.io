@@ -10,11 +10,16 @@ redirect_from:
 My name is **Nguyễn Hữu Thắng**, but I often go by the beloved name **Thangnguyen**. I come from Vietnam, a country rich in cultural heritage. This is my website, which I use as a platform to express my passion for Data Science and Artificial Intelligence—featuring my resources, research, projects, and blogs on these topics. I hope you find them interesting! For any feedback or collaboration opportunities, please feel free to reach out to me via my [Gmail](nguyenhuut102@gmail.com).
 
 
-Thangnguyen's personal website
+Anecdote 1: The Teacher
 ======
-hi sjaksbakas asiaososadoasndaosnd Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Looking back at my high school years, I had no direction in life in general, nor in academics and career specifically. That was when I met my foster father, Thomas Hanh. He studied at HUST in 1980 and later at Boston College, pursuing fields related to computer science. At the time, I knew nothing—not about math or any other subjects. He told me bluntly, "If you find no meaning in studying, then change direction and learn a trade so you don’t waste your time." Those words woke something inside me. I started putting effort into math and other subjects. When I graduated, he guided me toward studying computer science, and from that moment, I became fascinated with the mystical lines of code. Though a simple story, it was enough to change me and turn a new page in my life. Thinking about this, I am reminded of supervised learning in machine learning. Just as algorithms need labeled data to learn, sometimes people need a teacher to guide them.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Anecdote 2: My Parents
+======
+My parents are simple farmers. They never taught me anything academic, but what they left within me was patience in every task. Through years of effort, there were moments of exhaustion and discouragement. But whenever I thought of them, I found renewed motivation to keep going.
+
+Anecdote 3: Myself
+======
 
 Getting started
 ======
