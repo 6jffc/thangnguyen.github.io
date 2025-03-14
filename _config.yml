@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nguyễn Hữu Thắng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Short biography"
+  location         : "Hoang Mai, Ha Noi, Vietnam"
+  employer         : "Phuong Dong University (Trường Đại Học Phương Đông)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nguyenhuut102@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
